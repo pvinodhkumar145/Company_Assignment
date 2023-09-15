@@ -1,0 +1,27 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.square {
+  width: 80px;
+  height: 80px;
+  font-size: 36px;
+}
+
+.board {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.status {
+  font-size: 24px;
+  margin-bottom: 100px;
+}
+.board .MuiGrid-container {
+  column-gap: 8px; 
+}
+.restart-button {
+  margin-top: 10px !important;
+}
